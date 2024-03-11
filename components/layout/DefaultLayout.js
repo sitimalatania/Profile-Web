@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Header from "../feature/Header";
 import MovingGradientBackground from "../feature/MovingGradientBackground";
+import Footer from "../feature/Footer";
 
 function DefaultLayout({ children, title = "Embersense" }) {
   return (
@@ -13,6 +14,7 @@ function DefaultLayout({ children, title = "Embersense" }) {
           <div className="flex flex-col w-full">
             <Header></Header>
             <main className="flex-1">{children}</main>
+            <Footer />
           </div>
         </div>
       </MovingGradientBackground>
