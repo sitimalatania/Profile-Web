@@ -45,7 +45,7 @@ function Beranda() {
               I am Siti Malatania
             </h2>
             <p className="font-medium text-yellow-50 mt-2 text-sm mb-3 md:mb-5 md:text-base xl:text-lg">
-              i'm a{" "}
+              i&apos;m a{" "}
               <span className="text-yellow-200 font-bold">
                 Front-End Developer
               </span>
