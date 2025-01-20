@@ -58,12 +58,12 @@ function Beranda() {
                     : "overflow-hidden line-clamp-3 lg:line-clamp-none"
                 }`}
               >
-                I am a fresh graduate of Information Engineering at
-                Gadjah Mada University. I have an interest and experience 
-                in software engineering, particularly in UI/UX design and 
-                front-end development. I'm highly disciplined, hardworking, 
-                adaptable, and able to work under pressure. I'm eager to learn 
-                in a new technological organization or company.
+                I am a fresh graduate of Information Engineering at.
+                I have an interest and experience in software engineering, 
+                particularly in UI/UX design and front-end development. 
+                I am highly disciplined, hardworking, adaptable, and able 
+                to work under pressure. I am eager to learn in a new 
+                technological organization or company.
               </p>
               {!isTextExpanded ? (
                 <span
