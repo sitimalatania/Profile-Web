@@ -58,11 +58,12 @@ function Beranda() {
                     : "overflow-hidden line-clamp-3 lg:line-clamp-none"
                 }`}
               >
-                I am a final semester student majoring in Information
-                Engineering at Gadjah Mada University. I am someone who is
-                disciplined and can work well in a team, and has a great
-                interest in new technological developments and enjoys learning
-                new things.
+                I am a fresh graduate of Information Engineering at
+                Gadjah Mada University. I have an interest and experience 
+                in software engineering, particularly in UI/UX design and 
+                front-end development. I'm highly disciplined, hardworking, 
+                adaptable, and able to work under pressure. I'm eager to learn 
+                in a new technological organization or company.
               </p>
               {!isTextExpanded ? (
                 <span
